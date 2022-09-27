@@ -3,9 +3,9 @@
 Location: Nigeria, Phone: +234 708 141 8052, Email: akoredesalaudeen54@gmail.com
 
 Personal Profile
-   Front-End developer with 2+ years of in Website design and development. I develop frondend web apps, websites. Very arge to learn new technologies, a motivated team player, also interested in AI and Robotics.
+   Front-End developer with 2+ years of in Website design and development. I develop frondend web apps, websites. Very arge to learn new technologies, a motivated team player.
 
-Skills
+# Skills
 Programming Languages . Front-End Tools Like ReactJs Javascript HTML5 CSS3  Bootstrap Entity Framework Experience
 Lagos, Nigeria (Remote) – Front-End Developer
 https://www.linkedin.com/in/salaudeen-lateef-9b23831aa
