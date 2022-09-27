@@ -1,6 +1,6 @@
 # UpraiserTech
-                         Salaudeen Lateef
-                         Front-End Developer
+Salaudeen Lateef
+Front-End Developer
 Location: Nigeria, Phone: +234 708 141 8052, Email: akoredesalaudeen54@gmail.com
 
 Personal Profile
