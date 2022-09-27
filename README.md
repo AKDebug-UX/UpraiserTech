@@ -9,6 +9,7 @@ Skills
 Programming Languages . Front-End Tools Like ReactJs Javascript HTML5 CSS3  Bootstrap Entity Framework Experience
 Lagos, Nigeria (Remote) – Front-End Developer
 https://www.linkedin.com/in/salaudeen-lateef-9b23831aa
+
 ? Collaborated with other team members and implemented the Merchant and Client
 ? Also helped them in advanced topics such as Object Oriented Programming which helped them to write clean code
 Freelancer.com, Remote – Freelance Frontend Developer
