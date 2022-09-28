@@ -1,14 +1,39 @@
 # Salaudeen Lateef
 # Front-End Developer
 Location: Nigeria, Phone: +234 708 141 8052, Email: akoredesalaudeen54@gmail.com
+            
+   # About
+   Personal Profile
+   
+      Front-End developer with 2+ years of in Website 
+      design and development. I develop frondend web apps, 
+      websites. Very arge to learn new technologies, 
+      a motivated team player.
 
-Personal Profile
-   Front-End developer with 2+ years of in Website design and development. I develop frondend web apps, websites. Very arge to learn new technologies, a motivated team player.
+   My Experience
+
+         UX Design
+             Visual Design and Design Software
+                 
+         Web Development
+             We Develop all kind of website
+
+         Digital Marketing
+             We can help you market your site
+
+                
+
 
 # Skills
 Programming Languages . Front-End Tools Like ReactJs Javascript HTML5 CSS3  Bootstrap Entity Framework Experience
 Lagos, Nigeria (Remote) – Front-End Developer
+
 https://www.linkedin.com/in/salaudeen-lateef-9b23831aa
+https://www.github.com/Ako826
+https://www.facebook.com/UpraiserTech
+https://www.twitter.com/Upraiser_Tech
+https://www.instagram.com/upraisertech
+
 
 ? Collaborated with other team members and implemented the Merchant and Client
 ? Also helped them in advanced topics such as Object Oriented Programming which helped them to write clean code
