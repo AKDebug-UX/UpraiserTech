@@ -26,13 +26,25 @@ Location: Nigeria, Phone: +234 708 141 8052, Email: akoredesalaudeen54@gmail.com
 
 # Skills
 Programming Languages . Front-End Tools Like ReactJs Javascript HTML5 CSS3  Bootstrap Entity Framework Experience
-Lagos, Nigeria (Remote) – Front-End Developer
+Lagos, Nigeria (Remote) – Front-End Developer, 
+I am looking for a new role and would appreciate 
+your support. Thank you in advance for any connections, 
+advice, or opportunities you can offer.
+You can check out my previous work on Github, 
+if you don't mind.
 
-https://www.linkedin.com/in/salaudeen-lateef-9b23831aa
-https://www.github.com/Ako826
+
+My portfolio - https://t.co/zJSvJm1sBE
+https://www.linkedin.com/in/upraisertech
+https://www.github.com/upraisertech 
 https://www.facebook.com/UpraiserTech
 https://www.twitter.com/Upraiser_Tech
-https://www.instagram.com/upraisertech
+https://www.instagram.com/upraiserteh
+
+I do not know maybe there is any assistant 
+I could offer to your project because 
+I am interested to contribute for the development 
+of any project you are working on.
 
 
 ? Collaborated with other team members and implemented the Merchant and Client
