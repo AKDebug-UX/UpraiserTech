@@ -1,4 +1,5 @@
-# Salaudeen Lateef Akorede
+# Akorede Salaudeen
+# UpraiserTech 
 # Front-End Developer
 Location: Nigeria, Phone: +234 708 141 8052, Email: akoredesalaudeen54@gmail.com
             
@@ -9,7 +10,7 @@ Location: Nigeria, Phone: +234 708 141 8052, Email: akoredesalaudeen54@gmail.com
       websites. Very arge to learn new technologies, 
       a motivated team player.
 
-   My Experience
+ #  My Experience
 
          UX Design
              Visual Design and Design Software
