@@ -71,3 +71,11 @@ input[type=submit]:hover {
   clear: both;    
 }    
     
+.ecomo {
+  height: 400px;
+}
+
+.ser {
+  width: 150%;
+  height: 600px;
+}
