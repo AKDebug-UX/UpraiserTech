@@ -64,7 +64,7 @@ input[type=submit]:hover {
   margin-top: 6px;    
 }    
     
-/* Clear floats after the columns */    
+  
 .row:after {    
   content: "";    
   display: table;    
