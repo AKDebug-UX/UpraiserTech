@@ -13,9 +13,9 @@ If you have an available internship or position that aligns with my skills. I de
 - 🌱 I’m currently learning Alot
 
 ## Skills and Experience
-* REACT
-* JS
-* HTML / CSS
+* 🔯REACT
+* 👌JS
+* 🧑🏻‍💻HTML / CSS
 
 ## Examples of Work
 <img src="https://github.com/upraisertech/UpraiserTech/blob/main/assets/imgs/works/ecomogame.jpeg" width="256"/>
