@@ -10,7 +10,27 @@ If you have an available internship or position that aligns with my skills. I de
 a motivated team player.
 
 [![UpraiserTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=upraisertech)](https://github.com/upraisertech/github-readme-stats)
-
+ <div class="col-lg-4 about-card">
+                <div class="card">
+                    <div class="card-header">
+                <h3 class="font-weight-light">Personal Info</h3>
+                <span class="line mb-5"></span>
+                <ul class="mt40 info list-unstyled">
+                    <img src="assets/imgs/avatar.jpg" alt="" style="width: 90px; height: 100px; " class="brand">
+                    <br/><br/>
+                    <li><span>Name</span> : Akorede Salaudeen</li>
+                    <li><span>Email</span> : akoredesalaudeen54@gmail.com</li>
+                    <li><span>Phone</span> : +234 708 141 8052</li>
+                    <li><span>Company Name</span> : Upraiser Tech </li>
+                </ul>
+                <ul class="social-icons pt-3">
+                    <li class="social-item"><a class="social-link" href="https://www.facebook.com/UpraiserTech"><i class="ti-facebook" aria-hidden="true"></i></a></li>
+                    <li class="social-item"><a class="social-link" href="https://www.twitter.com/upraisertech"><i class="ti-twitter" aria-hidden="true"></i></a></li>
+                    <li class="social-item"><a class="social-link" href="https://www.linkedin.com/in/upraisertech"><i class="ti-linkedin" aria-hidden="true"></i></a></li>
+                    <li class="social-item"><a class="social-link" href="https://www.instagram.com/upraisertech"><i class="ti-instagram" aria-hidden="true"></i></a></li>
+                    <li class="social-item"><a class="social-link" href="https://www.github.com/upraisertech"><i class="ti-github" aria-hidden="true"></i></a></li>
+                </ul>  
+            </div>
  #  My Experience
 
          UX Design
