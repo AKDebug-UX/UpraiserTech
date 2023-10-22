@@ -9,15 +9,17 @@ Currently, looking for a position as a Front-end developer to contribute my skil
 
 If you have an available internship or position that aligns with my skills. I develop frondend web apps, websites. Very arge to learn new technologies, a motivated team player.
 
+- 🔭 I’m currently working on My own company 
+- 🌱 I’m currently learning Alot
+
 ## Skills and Experience
 * REACT
 * JS
 * HTML / CSS
 
 ## Examples of Work
-<img src="" width="256"/>
-- 🔭 I’m currently working on My own company 
-- 🌱 I’m currently learning Alot 
+<img src="https://github.com/upraisertech/UpraiserTech/blob/main/assets/imgs/works/ecomogame.jpeg" width="256"/>
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/upraisertech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/upraisertech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](upraisertech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/upraisertech/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/upraisertech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/upraisertech/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/upraisertech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/upraisertech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://upraisertech.vercel.app)  
