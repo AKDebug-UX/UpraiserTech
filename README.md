@@ -9,7 +9,7 @@ Currently, looking for a position as a Front-end developer to contribute my skil
 If you have an available internship or position that aligns with my skills. I develop frondend web apps, websites. Very arge to learn new technologies, 
 a motivated team player.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![UpraiserTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=upraisertech)](https://github.com/upraisertech/github-readme-stats)
 
  #  My Experience
 
