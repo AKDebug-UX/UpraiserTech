@@ -4,12 +4,12 @@ Location: Nigeria, Phone: +234 708 141 8052, Email: akoredesalaudeen54@gmail.com
    # About
   
 I am a Software Engineer (Front-End Developer) and I have experience in the field of Blockchain technology, Web3, and the Cryptocurrency market.
-
 Currently, looking for a position as a Front-end developer to contribute my skill and knowledge for the development of the project. I am open for a full-time or part-time position and I am passionate about programming and and curious to learn and grow in my field 🤗. 
 
-If you have an available internship or position that aligns with my skills. I develop frondend web apps, 
-      websites. Very arge to learn new technologies, 
-      a motivated team player.
+If you have an available internship or position that aligns with my skills. I develop frondend web apps, websites. Very arge to learn new technologies, 
+a motivated team player.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
  #  My Experience
 
