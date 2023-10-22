@@ -1,6 +1,8 @@
+
+![Software Engineer (Front-End Developer)](https://pbs.twimg.com/profile_banners/1272802790188953607/1694256330/600x200)
+
 ### Hi there 👋, Akorede Salaudeen
 #### Software Engineer (Front-End Developer)
-![Software Engineer (Front-End Developer)](https://pbs.twimg.com/profile_banners/1272802790188953607/1694256330/600x200)
 
 I am a Software Engineer (Front-End Developer) and I have experience in the field of Blockchain technology, Web3, and the Cryptocurrency market.
 Currently, looking for a position as a Front-end developer to contribute my skill and knowledge for the development of the project. I am open for a full-time or part-time position and I am passionate about programming and and curious to learn and grow in my field 🤗. 
@@ -8,9 +10,12 @@ Currently, looking for a position as a Front-end developer to contribute my skil
 If you have an available internship or position that aligns with my skills. I develop frondend web apps, websites. Very arge to learn new technologies, a motivated team player.
 
 ## Skills and Experience
+* REACT
+* JS
+* HTML / CSS
 
-REACT / JS / HTML / CSS
-
+## Examples of Work
+<img src="" width="256"/>
 - 🔭 I’m currently working on My own company 
 - 🌱 I’m currently learning Alot 
 
