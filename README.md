@@ -8,6 +8,7 @@ Currently, looking for a position as a Front-end developer to contribute my skil
 If you have an available internship or position that aligns with my skills. I develop frondend web apps, websites. Very arge to learn new technologies, a motivated team player.
 
 ## Skills and Experience
+
 REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on My own company 
