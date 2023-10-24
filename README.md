@@ -1,5 +1,6 @@
 
-![Software Engineer (Front-End Developer)](https://github.com/upraisertech/UpraiserTech/blob/main/assets/Banner_Imgs/mine.png)
+<!-- ![Software Engineer (Front-End Developer)](https://github.com/upraisertech/UpraiserTech/blob/main/assets/Banner_Imgs/mine.png) -->
+<img src="https://github.com/upraisertech/UpraiserTech/blob/main/assets/Banner_Imgs/mine.png" alt="Software Engineer (Front-End Developer)"/>
 
 ### Hi there 👋, Akorede Salaudeen
 #### Software Engineer (Front-End Developer)
