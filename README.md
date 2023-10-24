@@ -1,5 +1,5 @@
 
-![Software Engineer (Front-End Developer)](https://github.com/upraisertech/UpraiserTech/blob/main/assets/Banner_Imgs/Screenshot%202023-10-23%20165507.png)
+![Software Engineer (Front-End Developer)](https://github.com/upraisertech/UpraiserTech/blob/main/assets/Banner_Imgs/mine.png)
 
 ### Hi there 👋, Akorede Salaudeen
 #### Software Engineer (Front-End Developer)
